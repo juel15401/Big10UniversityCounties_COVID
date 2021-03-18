@@ -1,0 +1,9 @@
+
+Graph Builder(
+	Size( 913, 500 ),
+	Variables(
+		X( :Name( "Mean(covid_mortrate)" ) ),
+		Y( :Name( "Pred Formula Mean(covid_mortrate)_big10 ref" ) )
+	),
+	Elements( Line Of Fit( X, Y, Legend( 6 ) ), Points( X, Y, Legend( 7 ) ) )
+);
